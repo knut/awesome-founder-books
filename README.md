@@ -1,6 +1,8 @@
 # Awesome Books for Founders & Product Hackers 📚
 A shortlist of highly inspirational books.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 * [**The Pragmatic Programmer:** From Journeyman to Master](https://amzn.to/2JOJkbz) (1999)<br/>
 <sup>by [Andrew Hunt](https://amzn.to/2YxoK9k) & David Thomas</sup>
 * [**The Cathedral & the Bazaar:** Musings on Linux and Open Source by an Accidental Revolutionary](https://amzn.to/2YDazze) (2001)<br/>
